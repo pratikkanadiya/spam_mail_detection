@@ -10,11 +10,15 @@ A machine learning project that classifies email/SMS messages as spam or ham (no
 Project Structure
 spam-mail-detection/
 ├── spam_mail.ipynb       # Main Jupyter notebook
+
 ├── mail_data.csv         # Dataset (5572 labeled messages)
+
 ├── spammodel.pkl         # Trained Logistic Regression model
+
 ├── vectorizer.pkl        # Fitted TF-IDF Vectorizer
 
 Results
 
 Training Accuracy: 96.77%
+
 Test Accuracy: 96.68%
