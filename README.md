@@ -8,6 +8,7 @@ A machine learning project that classifies email/SMS messages as spam or ham (no
 
 
 Project Structure
+
 spam-mail-detection/
 
    ├── spam_mail.ipynb       # Main Jupyter notebook
