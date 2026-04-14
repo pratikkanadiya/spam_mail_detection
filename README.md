@@ -10,6 +10,11 @@ A machine learning project that classifies email/SMS messages as spam or ham (no
 Project Structure
 
 spam-mail-detection/
+   ├── tamplates
+
+      ├── index.html         #frontend code  
+
+   ├── app.py                #Flask web application
 
    ├── spam_mail.ipynb       # Main Jupyter notebook
    
