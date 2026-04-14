@@ -12,7 +12,8 @@ Project Structure
 spam-mail-detection/
 
    ├── tamplates
-      ├── index.html         #frontend code  
+
+     ├── index.html         #frontend code  
 
    ├── app.py                #Flask web application
 
