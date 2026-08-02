@@ -13,17 +13,17 @@ spam-mail-detection/
 
    ├── tamplates
 
-   \── index.html         #frontend code  
+   |── index.html         
 
-   ├── app.py                #Flask web application
+   ├── app.py                
 
-   ├── spam_mail.ipynb       # Main Jupyter notebook
+   ├── spam_mail.ipynb       
    
-   ├── mail_data.csv         # Dataset (5572 labeled messages)
+   ├── mail_data.csv         
    
-   ├── spammodel.pkl         # Trained Logistic Regression model
+   ├── spammodel.pkl         
    
-   ├── vectorizer.pkl        # Fitted TF-IDF Vectorizer
+   ├── vectorizer.pkl        
 
 Results
 
